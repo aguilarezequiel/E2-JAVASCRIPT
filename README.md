@@ -18,7 +18,7 @@ Ejecuta el siguiente comando en tu terminal para clonar el repositorio:
 bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
-2. Instalar dependencias
+### 2. Instalar dependencias
 Navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias necesarias:
 
 cd tu-repositorio
@@ -26,7 +26,7 @@ npm install
 
 Esto creará la carpeta node_modules y descargará las dependencias especificadas en el archivo package.json.
 
-3. Ejecutar la aplicación
+### 3. Ejecutar la aplicación
 Para iniciar el servidor de desarrollo de Vite, ejecuta:
 npm run dev
 
